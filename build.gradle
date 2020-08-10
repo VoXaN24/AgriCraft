@@ -31,7 +31,7 @@ minecraft {
 repositories {
     maven {
         name "TehNut Maven"
-        url "http://tehnut.info/maven"
+        url "https://maven.tehnut.info"
     }
     maven {
         name "Tterrag Maven"
@@ -47,7 +47,7 @@ repositories {
     }
     maven {
         name "ActuallyAdditions"
-        url "https://maven.chaosfield.at/"
+        url "https://vhost.cf/"
     }
     maven {
         name "CodeChicken"
@@ -63,7 +63,7 @@ repositories {
     }
     maven {
         name "Baubles"
-        url "https://maven.thiakil.com/"
+        url "https://vhost.cf"
     }
 }
 
